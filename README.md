@@ -1,6 +1,9 @@
 一个基于 simple-uploader.js, vue-simple-uploader和MD5 的 Vue 上传组件
+
 支持: 
+
   文件秒传及断点续传,
+  
   分块上传
 
 # install dependencies
